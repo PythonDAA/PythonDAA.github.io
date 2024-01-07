@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# 📝 Python and Data Analysis
+# 📝 Python for Data Analysis
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/maxresdefault.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
