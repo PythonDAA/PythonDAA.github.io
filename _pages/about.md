@@ -46,7 +46,6 @@ Michael A. Nielsen. Neural Networks and Deep Learning
 Eugene Charniak. Introduction to Deep Learning
 
 # 💬 Topic
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
