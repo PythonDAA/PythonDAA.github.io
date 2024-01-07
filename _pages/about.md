@@ -46,8 +46,75 @@ Michael A. Nielsen. Neural Networks and Deep Learning
 Eugene Charniak. Introduction to Deep Learning
 
 # 💬 Topic
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Course Schedule</title>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  a {
+    color: blue;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Description</th>
+    <th>Course Materials</th>
+    <th>Events</th>
+    <th>Deadlines</th>
+  </tr>
+  <tr>
+    <td>Tue Jan 10</td>
+    <td>
+      Word Vectors (by John Hewitt)
+      <br>
+      <a href="link-to-slides">[slides]</a>
+      <a href="link-to-notes">[notes]</a>
+      <br>
+      Gensim word vectors example:
+      <br>
+      <a href="link-to-code">[code]</a>
+      <a href="link-to-preview">[preview]</a>
+    </td>
+    <td>
+      Suggested Readings:
+      <ol>
+        <li>
+          <a href="link-to-word2vec-paper">Efficient Estimation of Word Representations in Vector Space (original word2vec paper)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Distributed Representations of Words and Phrases and their Compositionality (negative sampling paper)</a>
+        </li>
+      </ol>
+    </td>
+    <td>Assignment 1 out</td>
+    <td>
+      <a href="link-to-assignment-code">[code]</a>
+      <a href="link-to-assignment-preview">[preview]</a>
+    </td>
+  </tr>
+  <!-- More rows can be added here -->
+</table>
+
+</body>
+</html>
 
 
 
