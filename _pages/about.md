@@ -37,13 +37,34 @@ redirect_from:
 
 # 📖 Reference Material
 
-The following texts are useful, but none are required. All of them can be read free online. //
-Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft)Jacob Eisenstein. Natural Language Processing//
-Yoav Goldberg. A Primer on Neural Network Models for Natural Language Processing
-lan Goodfellow. Yoshua Bengio. and Aaron Courville. Deep Learning
-Delip Rao and Brian McMahan. Natural Language Processing with PyTorch (requires Stanford loain).i you have no background in neura neworks but woud ike to take the course anyway, you might wel fnd one of these books helpful to give you morebackground:
-Michael A. Nielsen. Neural Networks and Deep Learning
-Eugene Charniak. Introduction to Deep Learning
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Recommended Readings</title>
+</head>
+<body>
+
+<p>The following texts are useful, but none are required. All of them can be read free online.</p>
+
+<ul>
+  <li>Dan Jurafsky and James H. Martin. <em>Speech and Language Processing</em> (3rd ed. draft)</li>
+  <li>Jacob Eisenstein. <em>Natural Language Processing</em></li>
+  <li>Yoav Goldberg. <em>A Primer on Neural Network Models for Natural Language Processing</em></li>
+  <li>Ian Goodfellow, Yoshua Bengio, and Aaron Courville. <em>Deep Learning</em></li>
+  <li>Delip Rao and Brian McMahan. <em>Natural Language Processing with PyTorch</em> (requires Stanford login)</li>
+</ul>
+
+<p>If you have no background in neural networks but would like to take the course anyway, you might well find one of these books helpful to give you more background:</p>
+
+<ul>
+  <li>Michael A. Nielsen. <em>Neural Networks and Deep Learning</em></li>
+  <li>Eugene Charniak. <em>Introduction to Deep Learning</em></li>
+</ul>
+
+</body>
+</html>
+
 
 # 💬 Topic
 <html lang="en">
