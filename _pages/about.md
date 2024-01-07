@@ -37,8 +37,8 @@ redirect_from:
 
 # 📖 Reference Material
 
-The following texts are useful, but none are required. All of them can be read free online. \\
-Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft)Jacob Eisenstein. Natural Language Processing
+The following texts are useful, but none are required. All of them can be read free online. //
+Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft)Jacob Eisenstein. Natural Language Processing//
 Yoav Goldberg. A Primer on Neural Network Models for Natural Language Processing
 lan Goodfellow. Yoshua Bengio. and Aaron Courville. Deep Learning
 Delip Rao and Brian McMahan. Natural Language Processing with PyTorch (requires Stanford loain).i you have no background in neura neworks but woud ike to take the course anyway, you might wel fnd one of these books helpful to give you morebackground:
