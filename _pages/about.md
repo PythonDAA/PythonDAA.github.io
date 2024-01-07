@@ -20,7 +20,7 @@ redirect_from:
 
 # 📝 Course 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Data-Analysis-with-Python.webp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[slides](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
