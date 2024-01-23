@@ -40,9 +40,8 @@ redirect_from:
 </head>
 <body>
 
-<p><a href=" https://github.com/PythonDAA/PythonDAA.github.io/blob/main/files/pdf.pdf">[教学大纲]</a></p>
-
 <ul>
+  <li><p><a href="files/教学大纲.pdf">[教学大纲]</a></p></li>
   <li>Dan Jurafsky and James H. Martin. <em>Speech and Language Processing</em> (3rd ed. draft)</li>
   <li>Jacob Eisenstein. <em>Natural Language Processing</em></li>
   <li>Yoav Goldberg. <em>A Primer on Neural Network Models for Natural Language Processing</em></li>
