@@ -102,8 +102,8 @@ redirect_from:
       <li>数组</li>
       <li>主函数</li>
     </ul>
-      
     </td>
+    
     <td>
       Jupyter Notebook 文件：
       <ul>
@@ -118,6 +118,7 @@ redirect_from:
         </li>
       </ul>
     </td>
+    
     <td>
     <ul>
         <li>
@@ -146,6 +147,172 @@ redirect_from:
     </td>
   </tr>
   <!-- More rows can be added here -->
+
+   <tr>
+    <td>
+      Numpy 介绍 (3学时)
+      <br>
+    包含如下内容：
+    <ul>
+      <li>数组</li>
+      <li>主函数</li>
+    </ul>
+    </td>
+    
+    <td>
+      Jupyter Notebook 文件：
+      <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
+    </td>
+    
+    <td>
+    <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+
+
+ <tr>
+    <td>
+      Pandas介绍与数据处理 (3学时)
+      <br>
+    包含如下内容：
+    <ul>
+      <li>数组</li>
+      <li>主函数</li>
+    </ul>
+    </td>
+    
+    <td>
+      Jupyter Notebook 文件：
+      <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
+    </td>
+    
+    <td>
+    <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
+<!-- Thrid Row -->
+
+ <tr>
+    <td>
+      数据采集 (3学时)
+      <br>
+    包含如下内容：
+    <ul>
+      <li>数组</li>
+      <li>主函数</li>
+    </ul>
+    </td>
+    
+    <td>
+      Jupyter Notebook 文件：
+      <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
+    </td>
+    
+    <td>
+    <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  
 </table>
 
 </body>
