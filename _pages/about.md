@@ -88,14 +88,12 @@ redirect_from:
 
 <table>
   <tr>
-    <th>Date</th>
-    <th>Description</th>
-    <th>Course Materials</th>
-    <th>Events</th>
-    <th>Deadlines</th>
+    <th>内容描述</th>
+    <th>课程资料</th>
+    <th>课程视频</th>
+    <th>练习题目</th>
   </tr>
   <tr>
-    <td>Tue Jan 10</td>
     <td>
       Word Vectors (by John Hewitt)
       <br>
