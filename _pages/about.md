@@ -111,10 +111,10 @@ redirect_from:
           <a href="/files/02_PythonBasics_part1.ipynb">Python编程基础(1)</a>
         </li>
         <li>
-          <a href="/files/02_PythonBasics_part2.ipynb">Python编程基础(2)</a>
+          <a href="/files/03_PythonBasics_part2.ipynb">Python编程基础(2)</a>
         </li>
         <li>
-          <a href="/files/02_PythonBasics_part3.ipynb">Python编程基础(3)</a>
+          <a href="/files/04_PythonBasics_part3.ipynb">Python编程基础(3)</a>
         </li>
       </ul>
     </td>
