@@ -108,13 +108,13 @@ redirect_from:
       Jupyter Notebook 文件：
       <ul>
         <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+          <a href="/files/02_PythonBasics_part1.ipynb">Python编程基础(1)</a>
         </li>
         <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+          <a href="/files/02_PythonBasics_part2.ipynb">Python编程基础(2)</a>
         </li>
         <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+          <a href="/files/02_PythonBasics_part3.ipynb">Python编程基础(3)</a>
         </li>
       </ul>
     </td>
@@ -163,7 +163,7 @@ redirect_from:
       Jupyter Notebook 文件：
       <ul>
         <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+          <a href="/files/02_PythonBasics_part1.ipynb">Python编程基础(1)</a>
         </li>
         <li>
           <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
