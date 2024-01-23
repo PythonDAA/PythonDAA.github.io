@@ -95,31 +95,54 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      Word Vectors (by John Hewitt)
+      Python编程基础 (9学时)
       <br>
-      <a href="link-to-slides">[slides]</a>
-      <a href="link-to-notes">[notes]</a>
-      <br>
-      Gensim word vectors example:
-      <br>
-      <a href="link-to-code">[code]</a>
-      <a href="link-to-preview">[preview]</a>
+    包含如下内容：
+    <ul>
+      <li>数组</li>
+      <li>主函数</li>
+    </ul>
+      
     </td>
     <td>
-      Suggested Readings:
-      <ol>
+      Jupyter Notebook 文件：
+      <ul>
         <li>
-          <a href="link-to-word2vec-paper">Efficient Estimation of Word Representations in Vector Space (original word2vec paper)</a>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
         </li>
         <li>
-          <a href="link-to-negative-sampling-paper">Distributed Representations of Words and Phrases and their Compositionality (negative sampling paper)</a>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
         </li>
-      </ol>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
     </td>
-    <td>Assignment 1 out</td>
     <td>
-      <a href="link-to-assignment-code">[code]</a>
-      <a href="link-to-assignment-preview">[preview]</a>
+    <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>
+          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
+        </li>
+        <li>
+          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
+        </li>
+      </ul>
     </td>
   </tr>
   <!-- More rows can be added here -->
