@@ -16,16 +16,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 📝 Python 数据分析与应用2
+# 📝 Python 数据分析与应用
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/maxresdefault.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"></div>
 
 ### 课程介绍
 
 本课程的建设目标是把Python数据分析与应用课程建设成为一门教学内容丰富全面，教学方法合理先进，教学体系人性化与差异化相结合的课程。在课程设计时充分考虑到本课程实践性与应用性较强的特点，在授课过程中致力于将理论与实践相结合并兼顾基础技术与前沿应用，从而更好地培养学生的编程能力，数据分析能力和实际问题分析解决能力。
 
-</div>
 
 
 
