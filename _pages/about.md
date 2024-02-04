@@ -112,7 +112,7 @@ redirect_from:
         [<a href="/files/Python编程基础(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">视频</a>]
         </li>
         <li>  Python编程基础(3) [<a href="/files/Python编程基础(3).ipynb">Jupyter Notebook</a>]
-        [<a href="/files/Python编程基础(3).pdf">pdf</a>] [<a href="链接：https://pan.baidu.com/s/1UUlFe5ojWX1BjxLXGJthDA?pwd=lsl3">视频</a>]
+        [<a href="/files/Python编程基础(3).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1UUlFe5ojWX1BjxLXGJthDA?pwd=lsl3">视频</a>]
         </li>
       </ul>
     </td>
