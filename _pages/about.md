@@ -90,7 +90,6 @@ redirect_from:
   <tr>
     <th>内容描述</th>
     <th>课程资料</th>
-    <th>课程视频</th>
     <th>练习题目</th>
   </tr>
   <tr>
@@ -107,27 +106,13 @@ redirect_from:
     <td>
       <ul>
         <li>  Python编程基础(1) [<a href="/files/02_PythonBasics_part1.ipynb">Jupyter Notebook</a>]
-        [<a href="/files/02_PythonBasics_part1.ipynb">pdf</a>]
+        [<a href="/files/02_PythonBasics_part1.ipynb">pdf</a>] [<a href="xxx">视频</a>]
         </li>
         <li>  Python编程基础(2) [<a href="/files/03_PythonBasics_part2.ipynb">Jupyter Notebook</a>]
         [<a href="/files/03_PythonBasics_part2.ipynb">pdf</a>]
         </li>
         <li>  Python编程基础(3) [<a href="/files/04_PythonBasics_part3.ipynb">Jupyter Notebook</a>]
         [<a href="/files/04_PythonBasics_part3.ipynb">pdf</a>]
-        </li>
-      </ul>
-    </td>
-    
-    <td>
-    <ul>
-        <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
         </li>
       </ul>
     </td>
@@ -147,170 +132,7 @@ redirect_from:
   </tr>
   <!-- More rows can be added here -->
 
-   <tr>
-    <td>
-      Numpy 介绍 (3学时)
-      <br>
-    包含如下内容：
-    <ul>
-      <li>数组</li>
-      <li>主函数</li>
-    </ul>
-    </td>
-    
-    <td>
-      Jupyter Notebook 文件：
-      <ul>
-        <li>
-          <a href="/files/02_PythonBasics_part1.ipynb">Python编程基础(1)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
-        </li>
-      </ul>
-    </td>
-    
-    <td>
-    <ul>
-        <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
-        </li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-
-
- <tr>
-    <td>
-      Pandas介绍与数据处理 (3学时)
-      <br>
-    包含如下内容：
-    <ul>
-      <li>数组</li>
-      <li>主函数</li>
-    </ul>
-    </td>
-    
-    <td>
-      Jupyter Notebook 文件：
-      <ul>
-        <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
-        </li>
-      </ul>
-    </td>
-    
-    <td>
-    <ul>
-        <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
-        </li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
   
-<!-- Thrid Row -->
-
- <tr>
-    <td>
-      数据采集 (3学时)
-      <br>
-    包含如下内容：
-    <ul>
-      <li>数组</li>
-      <li>主函数</li>
-    </ul>
-    </td>
-    
-    <td>
-      Jupyter Notebook 文件：
-      <ul>
-        <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
-        </li>
-      </ul>
-    </td>
-    
-    <td>
-    <ul>
-        <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
-        </li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>
-          <a href="link-to-word2vec-paper">Python编程基础(1)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(2)</a>
-        </li>
-        <li>
-          <a href="link-to-negative-sampling-paper">Python编程基础(3)</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
   
 </table>
 
