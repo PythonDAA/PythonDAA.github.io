@@ -41,19 +41,9 @@ redirect_from:
 <body>
 
 <ul>
-  <li><p><a href="files/教学大纲.pdf">[教学大纲]</a></p></li>
-  <li>Dan Jurafsky and James H. Martin. <em>Speech and Language Processing</em> (3rd ed. draft)</li>
-  <li>Jacob Eisenstein. <em>Natural Language Processing</em></li>
-  <li>Yoav Goldberg. <em>A Primer on Neural Network Models for Natural Language Processing</em></li>
-  <li>Ian Goodfellow, Yoshua Bengio, and Aaron Courville. <em>Deep Learning</em></li>
-  <li>Delip Rao and Brian McMahan. <em>Natural Language Processing with PyTorch</em> (requires Stanford login)</li>
-</ul>
-
-<p>If you have no background in neural networks but would like to take the course anyway, you might well find one of these books helpful to give you more background:</p>
-
-<ul>
-  <li>Michael A. Nielsen. <em>Neural Networks and Deep Learning</em></li>
-  <li>Eugene Charniak. <em>Introduction to Deep Learning</em></li>
+<li> Mastering python for data science. Samir Madhavan. Packt Publishing.</li>
+<li> Python Data Science Handbook: Essential Tools for Working with Data. Jake VanderPlas. O'Reilly Media, Inc..</li> 
+<li>	Github Reposiroty: https://github.com/jakevdp/PythonDataScienceHandbook</li>
 </ul>
 
 </body>
