@@ -83,6 +83,21 @@ redirect_from:
     <th>课程资料</th>
     <th>练习题目</th>
   </tr>
+
+  <tr>
+    <td>
+      Jupyter基础 (1学时)
+      <br>
+    本章节将介绍如何使用Jupyter Notebook来编写Python代码。
+    <td>
+      Jupyter基础[<a href="/files/Jupyter基础.ipynb">Notebook</a>]
+        [<a href="/files/Jupyter基础.pdf">pdf</a>]
+    </td>
+    <td>
+     --
+    </td>
+  </tr>
+ <!-- More Row -->
   <tr>
     <td>
       Python编程基础 (9学时)
