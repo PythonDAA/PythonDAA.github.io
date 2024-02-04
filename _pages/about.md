@@ -96,7 +96,7 @@ redirect_from:
     <td>
       Python编程基础 (9学时)
       <br>
-    本章节将深入介绍Python语言的编程基础，内容包括:
+    本章节将深入介绍Python语言的编程基础，包括:
     <ul>
       <li>
         Python语法
