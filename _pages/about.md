@@ -107,8 +107,8 @@ redirect_from:
     <td>
       Jupyter Notebook 文件：
       <ul>
-        <li>
-          <a href="/files/02_PythonBasics_part1.ipynb">Python编程基础(1)</a>
+        <li>  Python编程基础(1)<a href="/files/02_PythonBasics_part1.ipynb">Jupyter Notebook</a>
+        <a href="/files/02_PythonBasics_part1.ipynb">pdf</a>
         </li>
         <li>
           <a href="/files/03_PythonBasics_part2.ipynb">Python编程基础(2)</a>
