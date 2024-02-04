@@ -136,13 +136,13 @@ redirect_from:
     <td>
       <ul>
         <li>
-         Python编程基础(1) [<a href="link-to-word2vec-paper">Jupyter Notebook</a>][<a href="xxx">pdf</a>]
+         Python编程基础(1) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
         </li>
         <li>
-         Python编程基础(2) [<a href="link-to-word2vec-paper">Jupyter Notebook</a>][<a href="xxx">pdf</a>]
+         Python编程基础(2) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
         </li>
         <li>
-         Python编程基础(3) [<a href="link-to-word2vec-paper">Jupyter Notebook</a>][<a href="xxx">pdf</a>]
+         Python编程基础(3) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
         </li>
       </ul>
     </td>
