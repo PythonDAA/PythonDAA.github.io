@@ -147,9 +147,38 @@ redirect_from:
       </ul>
     </td>
   </tr>
+ 
   <!-- More rows can be added here -->
 
-  
+  <!-- Second Row, Chapter 2 -->
+  <tr>
+    <td>
+      Numpy介绍 (3学时)
+      <br>
+    本章节将介绍Python中的用于高效存储和操作数值数组的科学计算包Numpy，涵盖基本Numpy数组操作和整合函数。
+    </td>
+    
+    <td>
+      <ul>
+        <li>  Numpy介绍(1) [<a href="/files/Numpy介绍(1).ipynb">Notebook</a>]
+        [<a href="/files/Numpy介绍(1).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
+        </li>
+         <li>  Numpy介绍(2) [<a href="/files/Numpy介绍(2).ipynb">Notebook</a>]
+        [<a href="/files/Numpy介绍(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1hbCmhzlQk-AVhDKy_ZSJ0Q?pwd=2j5c</a>]
+        </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>
+         Numpy介绍(1) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+        </li>
+        <li>
+         Numpy介绍(2) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+        </li>
+      </ul>
+    </td>
+  </tr>
   
 </table>
 
