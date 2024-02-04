@@ -176,6 +176,8 @@ redirect_from:
         <li>
          Numpy介绍(2) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
         </li>
+        数据集：
+        [<a href="/files/president_heights.csv">president_heights.csv</a>] [<a href="/files/Seattle2014.csv">Seattle2014.csv</a>]       
       </ul>
     </td>
   </tr>
