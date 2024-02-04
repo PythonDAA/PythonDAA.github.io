@@ -87,6 +87,7 @@ redirect_from:
       Jupyter基础 (1学时)
       <br>
     本章节将介绍如何使用Jupyter Notebook来编写Python代码。
+    </td>
     <td>
       Jupyter基础[<a href="/files/Jupyter基础.ipynb">Notebook</a>]
         [<a href="/files/Jupyter基础.pdf">pdf</a>]
