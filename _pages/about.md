@@ -166,6 +166,8 @@ redirect_from:
          <li>  Numpy介绍(2) [<a href="/files/Numpy介绍(2).ipynb">Notebook</a>]
         [<a href="/files/Numpy介绍(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1hbCmhzlQk-AVhDKy_ZSJ0Q?pwd=2j5c">视频</a>]
         </li>
+         数据集：
+        [<a href="/files/president_heights.csv">president_heights.csv</a>] [<a href="/files/Seattle2014.csv">Seattle2014.csv</a>]  
       </ul>
     </td>
     <td>
@@ -175,9 +177,7 @@ redirect_from:
         </li>
         <li>
          Numpy介绍(2) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
-        </li>
-        数据集：
-        [<a href="/files/president_heights.csv">president_heights.csv</a>] [<a href="/files/Seattle2014.csv">Seattle2014.csv</a>]       
+        </li>     
       </ul>
     </td>
   </tr>
