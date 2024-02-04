@@ -106,13 +106,13 @@ redirect_from:
     <td>
       <ul>
         <li>  Python编程基础(1) [<a href="/files/Python编程基础(1).ipynb">Jupyter Notebook</a>]
-        [<a href="/files/Python编程基础(1).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/14dNjI7V9lMXP5w5YOHAxLA?pwd=hw6o">视频</a>]
+        [<a href="/files/Python编程基础(1).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1rXTzyazwJ6TAck7vk2e-HQ?pwd=4n41">视频</a>]
         </li>
-         <li>  Python编程基础(1) [<a href="/files/Python编程基础(1).ipynb">Jupyter Notebook</a>]
-        [<a href="/files/Python编程基础(1).pdf">pdf</a>] [<a href="xxx">视频</a>]
+         <li>  Python编程基础(2) [<a href="/files/Python编程基础(2).ipynb">Jupyter Notebook</a>]
+        [<a href="/files/Python编程基础(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">视频</a>]
         </li>
-        <li>  Python编程基础(1) [<a href="/files/Python编程基础(1).ipynb">Jupyter Notebook</a>]
-        [<a href="/files/Python编程基础(1).pdf">pdf</a>] [<a href="xxx">视频</a>]
+        <li>  Python编程基础(3) [<a href="/files/Python编程基础(3).ipynb">Jupyter Notebook</a>]
+        [<a href="/files/Python编程基础(3).pdf">pdf</a>] [<a href="链接：https://pan.baidu.com/s/1UUlFe5ojWX1BjxLXGJthDA?pwd=lsl3">视频</a>]
         </li>
       </ul>
     </td>
@@ -122,10 +122,10 @@ redirect_from:
          Python编程基础(1) [<a href="link-to-word2vec-paper">Jupyter Notebook</a>][<a href="xxx">pdf</a>]
         </li>
         <li>
-         Python编程基础(1) [<a href="link-to-word2vec-paper">Jupyter Notebook</a>][<a href="xxx">pdf</a>]
+         Python编程基础(2) [<a href="link-to-word2vec-paper">Jupyter Notebook</a>][<a href="xxx">pdf</a>]
         </li>
         <li>
-         Python编程基础(1) [<a href="link-to-word2vec-paper">Jupyter Notebook</a>][<a href="xxx">pdf</a>]
+         Python编程基础(3) [<a href="link-to-word2vec-paper">Jupyter Notebook</a>][<a href="xxx">pdf</a>]
         </li>
       </ul>
     </td>
