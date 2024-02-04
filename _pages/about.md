@@ -174,7 +174,11 @@ redirect_from:
         [<a href="/files/Numpy介绍(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1hbCmhzlQk-AVhDKy_ZSJ0Q?pwd=2j5c">视频</a>]
         </li>
          数据集：
-        [<a href="/files/president_heights.csv">president_heights.csv</a>] [<a href="/files/Seattle2014.csv">Seattle2014.csv</a>]  
+         <ul>
+         <li>[<a href="/files/president_heights.csv">president_heights.csv</a>]</li>
+         <li>[<a href="/files/Seattle2014.csv">Seattle2014.csv</a>]</li>
+         </ul>
+       
       </ul>
     </td>
     <td>
