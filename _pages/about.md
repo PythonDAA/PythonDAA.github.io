@@ -43,7 +43,8 @@ redirect_from:
 <li> Mastering python for data science. Samir Madhavan. Packt Publishing.</li>
 <li> Python Data Science Handbook: Essential Tools for Working with Data. Jake VanderPlas. O'Reilly Media, Inc..</li> 
 <li>	Github Reposiroty: https://github.com/jakevdp/PythonDataScienceHandbook</li>
-<li>本课程使用Jupyter Notebook作为课程讲义并在云平台部署搭建JupyterHub, 为每个学生提供便捷的Jupyter Notebook服务，教师与学生可以在该平台上完成讲义和作业分发，作业编写、提交和评分。JupyterHub系统的使用可以下载<a href="/files/JupyterHub系统使用手册(学生版).pdf>JupyterHub系统使用手册</a>。
+
+<p>本课程使用Jupyter Notebook作为课程讲义并在云平台部署搭建JupyterHub, 为每个学生提供便捷的Jupyter Notebook服务，教师与学生可以在该平台上完成讲义和作业分发，作业编写、提交和评分。JupyterHub系统的使用可以下载<a href="/files/JupyterHub系统使用手册(学生版).pdf">JupyterHub系统使用手册</a>。</p>
 
 </ul>
 
