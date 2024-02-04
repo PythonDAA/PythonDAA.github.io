@@ -106,7 +106,7 @@ redirect_from:
     <td>
       <ul>
         <li>  Python编程基础(1) [<a href="/files/Python编程基础(1).ipynb">Jupyter Notebook</a>]
-        [<a href="/files/Python编程基础(1).pdf">pdf</a>] [<a href="[xxx](https://pan.baidu.com/s/14dNjI7V9lMXP5w5YOHAxLA?pwd=hw6o)">视频</a>]
+        [<a href="/files/Python编程基础(1).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/14dNjI7V9lMXP5w5YOHAxLA?pwd=hw6o">视频</a>]
         </li>
          <li>  Python编程基础(1) [<a href="/files/Python编程基础(1).ipynb">Jupyter Notebook</a>]
         [<a href="/files/Python编程基础(1).pdf">pdf</a>] [<a href="xxx">视频</a>]
