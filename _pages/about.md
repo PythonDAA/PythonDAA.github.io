@@ -99,7 +99,7 @@ redirect_from:
  <!-- More Row -->
   <tr>
     <td>
-      Python编程基础 (9学时)
+      <b>Python编程基础 (9学时)</b>
       <br>
     本章节将深入介绍Python语言的编程基础，包括:
     <ul>
@@ -158,7 +158,7 @@ redirect_from:
   <!-- Second Row, Chapter 2 -->
   <tr>
     <td>
-      Numpy介绍 (3学时)
+      <b>Numpy介绍 (3学时)</b>
       <br>
     本章节将介绍Python中的用于高效存储和操作数值数组的科学计算包Numpy，涵盖基本Numpy数组操作和整合函数。
     </td>
@@ -194,7 +194,7 @@ redirect_from:
     <!-- Pandas Row -->
   <tr>
     <td>
-      Pandas介绍与数据处理 (3学时)
+     <b> Pandas介绍与数据处理 (3学时)</b>
       <br>
     本章节将介绍Pandas库。Pandas是简历在Numpy基础上的库，提供高效的DataFrame实现，可用于处理带标签的、异构类型、可能包含缺失数据的多维数据结构。
     </td>
