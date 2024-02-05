@@ -222,7 +222,22 @@ redirect_from:
     </td>
   </tr>
 
+    <!-- 数据清洗与预处理 Row -->
+  <tr>
+    <td>
+     <b> 数据清洗与预处理 (3学时)</b>
+      <br>
+    本章节将介绍Pandas库。Pandas是简历在Numpy基础上的库，提供高效的DataFrame实现，可用于处理带标签的、异构类型、可能包含缺失数据的多维数据结构。
+    </td>
     
+    <td>
+        数据清洗与预处理[<a href="/files/数据清洗与预处理.ipynb">Notebook</a>]
+        [<a href="/files/数据清洗与预处理.pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
+    </td>
+    <td>
+         数据清洗与预处理[<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+    </td>
+  </tr>
 </table>
 
 </body>
