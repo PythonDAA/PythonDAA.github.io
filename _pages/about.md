@@ -84,7 +84,7 @@ redirect_from:
 
   <tr>
     <td width="350">
-      Jupyter基础 (1学时)
+      <b>Jupyter基础 (1学时)</b>
       <br>
     本章节将介绍如何使用Jupyter Notebook来编写Python代码。
     </td>
