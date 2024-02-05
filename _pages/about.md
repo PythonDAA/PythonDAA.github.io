@@ -308,6 +308,55 @@ redirect_from:
         </li>
     </td>
   </tr>
+
+     <!-- 机器学习 Row -->
+  <tr>
+    <td>
+     <b> 数据挖掘与机器学习 (6学时)</b>
+      <br>
+    xxxx
+    </td>
+    <td>
+      <ul>
+        <li> 数据挖掘与机器学习(1)[<a href="/files/数据挖掘与机器学习(1).ipynb">Notebook</a>]
+        [<a href="/files/数据挖掘与机器学习(1).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
+        </li>
+        <li> 数据挖掘与机器学习(2)[<a href="/files/数据挖掘与机器学习(2).ipynb">Notebook</a>]
+        [<a href="/files/数据挖掘与机器学习(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
+        </li>
+        <li>数据文件[<a href="/files/机器学习数据文件.zip">Notebook</a>]</li>
+      </ul>
+       
+    </td>
+    <td>
+       --
+    </td>
+  </tr>
+
+       <!-- 知识抽取 Row -->
+  <tr>
+    <td>
+     <b> 知识抽取 (6学时)</b>
+      <br>
+    xxxx
+    </td>
+    <td>
+      知识抽取(1)[<a href="/files/知识抽取.pdf">pdf</a>]
+    </td>
+    <td>
+       <ul>
+         <li>Exercise1[<a href="/files/xxx.ipynb">Notebook</a>]
+        [<a href="/files/xxx.pdf">pdf</a>] 
+         </li>
+        <li>Exercise2[<a href="/files/xxx.ipynb">Notebook</a>]
+        [<a href="/files/xxx.pdf">pdf</a>] 
+         </li>
+        <li>Exercise3[<a href="/files/xxx.ipynb">Notebook</a>]
+        [<a href="/files/xxx.pdf">pdf</a>] 
+         </li>
+       </ul>
+    </td>
+  </tr>
 </table>
 
 </body>
