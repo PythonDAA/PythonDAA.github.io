@@ -238,6 +238,46 @@ redirect_from:
          数据清洗与预处理[<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
     </td>
   </tr>
+
+  
+ <!-- 数据库采集 Row -->
+  <tr>
+    <td>
+     <b> 数据采集 (3学时)</b>
+      <br>
+    在本章中，我们将介绍如何从本地文件和互联网中获取各种数据格式的数据，包含多种数据格式的介绍、本地文件的读取与写入以及网络爬虫技术。
+    </td>
+    
+    <td>
+    <ul>
+    <li>数据采集(1)[<a href="/files/数据采集(1).ipynb">Notebook</a>]
+        [<a href="/files/数据采集(1).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]</li>
+      <li>数据采集(2)[<a href="/files/数据采集(2).ipynb">Notebook</a>]
+        [<a href="/files/数据采集(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]</li>
+    </ul>
+        数据文件[<a href="/files/数据文件.zip">zip</a>]
+    </td>
+    <td>
+         数据采集[<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+    </td>
+  </tr>
+
+   <!-- 数据库访问 Row -->
+  <tr>
+    <td>
+     <b> 数据库访问 (3学时)</b>
+      <br>
+    本章节将介绍Python中数据库API的基础知识与使用，包含SQLITE,MySQL以及SQLAlchemy。
+    </td>
+    
+    <td>
+        数据库访问[<a href="/files/数据库访问.ipynb">Notebook</a>]
+        [<a href="/files/数据库访问.pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
+    </td>
+    <td>
+         数据库访问[<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+    </td>
+  </tr>
 </table>
 
 </body>
