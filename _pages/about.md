@@ -341,7 +341,7 @@ redirect_from:
     xxxx
     </td>
     <td>
-      知识抽取(1)[<a href="/files/知识抽取.pdf">pdf</a>]
+      知识抽取[<a href="/files/知识抽取.pdf">pdf</a>]
     </td>
     <td>
        <ul>
