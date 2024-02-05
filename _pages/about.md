@@ -254,8 +254,9 @@ redirect_from:
         [<a href="/files/数据采集(1).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]</li>
       <li>数据采集(2)[<a href="/files/数据采集(2).ipynb">Notebook</a>]
         [<a href="/files/数据采集(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]</li>
+        <li>数据文件[<a href="/files/数据文件.zip">zip</a>]</li>
     </ul>
-        数据文件[<a href="/files/数据文件.zip">zip</a>]
+        
     </td>
     <td>
          数据采集[<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
