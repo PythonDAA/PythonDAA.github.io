@@ -190,7 +190,39 @@ redirect_from:
       </ul>
     </td>
   </tr>
-  
+    
+    <!-- Pandas Row -->
+  <tr>
+    <td>
+      Pandas介绍与数据处理 (3学时)
+      <br>
+    本章节将介绍Pandas库。Pandas是简历在Numpy基础上的库，提供高效的DataFrame实现，可用于处理带标签的、异构类型、可能包含缺失数据的多维数据结构。
+    </td>
+    
+    <td>
+      <ul>
+        <li>  Pandas介绍(1) [<a href="/files/Pandas介绍(1).ipynb">Notebook</a>]
+        [<a href="/files/Pandas介绍(1).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
+        </li>
+         <li>  Pandas介绍(2) [<a href="/files/Pandas介绍(2).ipynb">Notebook</a>]
+        [<a href="/files/Pandas介绍(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1hbCmhzlQk-AVhDKy_ZSJ0Q?pwd=2j5c">视频</a>]
+        </li>
+       
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>
+         Pandas介绍(1) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+        </li>
+        <li>
+         Pandas介绍(2) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+        </li>     
+      </ul>
+    </td>
+  </tr>
+
+    
 </table>
 
 </body>
