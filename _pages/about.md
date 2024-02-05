@@ -279,6 +279,34 @@ redirect_from:
          数据库访问[<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
     </td>
   </tr>
+
+   <!-- 数据可视化 Row -->
+  <tr>
+    <td>
+     <b> 数据可视化 (3学时)</b>
+      <br>
+    本章节将介绍Python中用于可视化的Matplotlib库。Matplotlib是一个基于NumPy数组构建的跨平台数据可视化库，具有良好的跨操作系统和图形后端的兼容性。
+    </td>
+    <td>
+      <ul>
+        <li> 数据可视化(1)[<a href="/files/数据可视化(1).ipynb">Notebook</a>]
+        [<a href="/files/数据可视化(1).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
+        </li>
+        <li> 数据可视化(2)[<a href="/files/数据可视化(2).ipynb">Notebook</a>]
+        [<a href="/files/数据可视化(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
+        </li>
+      </ul>
+       
+    </td>
+    <td>
+         <li> 数据可视化(1)[<a href="/files/数据可视化(1).ipynb">Notebook</a>]
+        [<a href="/files/数据可视化(1).pdf">pdf</a>] 
+        </li>
+        <li> 数据可视化(2)[<a href="/files/数据可视化(2).ipynb">Notebook</a>]
+        [<a href="/files/数据可视化(2).pdf">pdf</a>]
+        </li>
+    </td>
+  </tr>
 </table>
 
 </body>
