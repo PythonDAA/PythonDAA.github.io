@@ -312,22 +312,14 @@ redirect_from:
      <!-- 机器学习 Row -->
   <tr>
     <td>
-     <b> 数据挖掘与机器学习 (6学时)</b>
+     <b> 机器学习 (6学时)</b>
       <br>
     xxxx
     </td>
     <td>
-      <ul>
-        <li> 数据挖掘与机器学习(1)[<a href="/files/数据挖掘与机器学习(1).ipynb">Notebook</a>]
-        [<a href="/files/数据挖掘与机器学习(1).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
-        </li>
-        <li> 数据挖掘与机器学习(2)[<a href="/files/数据挖掘与机器学习(2).ipynb">Notebook</a>]
-        [<a href="/files/数据挖掘与机器学习(2).pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
-        </li>
-        <li>数据文件[<a href="/files/机器学习数据文件.zip">Notebook</a>]</li>
-      </ul>
-       
-    </td>
+     机器学习[<a href="/files/机器学习.ipynb">Notebook</a>]
+        [<a href="/files/机器学习.pdf">pdf</a>]
+     </td>
     <td>
        --
     </td>
@@ -341,18 +333,18 @@ redirect_from:
     xxxx
     </td>
     <td>
-      知识抽取[<a href="/files/知识抽取.pdf">pdf</a>]
+      知识抽取[<a href="/files/Knowledge Extraction from Text.pdf">pdf</a>]
     </td>
     <td>
        <ul>
-         <li>Exercise1[<a href="/files/xxx.ipynb">Notebook</a>]
-        [<a href="/files/xxx.pdf">pdf</a>] 
+         <li>实体抽取[<a href="/files/EntityExtraction_Exercise.ipynb">Notebook</a>]
+        [<a href="/files/EntityExtraction_Exercise.pdf">pdf</a>] 
          </li>
-        <li>Exercise2[<a href="/files/xxx.ipynb">Notebook</a>]
-        [<a href="/files/xxx.pdf">pdf</a>] 
+        <li>上位词抽取[<a href="/files/HypernymExtraction-Exercise.ipynb">Notebook</a>]
+        [<a href="/files/HypernymExtraction-Exercise.pdf">pdf</a>] 
          </li>
-        <li>Exercise3[<a href="/files/xxx.ipynb">Notebook</a>]
-        [<a href="/files/xxx.pdf">pdf</a>] 
+        <li>开放信息抽取[<a href="/files/OpenIE-Exercise.ipynb">Notebook</a>]
+        [<a href="/files/OpenIE-Exercise.pdf">pdf</a>] 
          </li>
        </ul>
     </td>
