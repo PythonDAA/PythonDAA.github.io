@@ -286,7 +286,7 @@ redirect_from:
     <td>
      <b> 机器学习 (6学时)</b>
       <br>
-    xxxx
+    本章节将介绍Python科学计算包在机器学习领域中的应用实战，涵盖机器学习分类模型，回归预测模型以及主成分分析模型等。旨在通过本章节的学习和练习加深对前面所学内容的理解和掌握。
     </td>
     <td>
      机器学习[<a href="/files/机器学习.ipynb">Notebook</a>]
@@ -302,7 +302,7 @@ redirect_from:
     <td>
      <b> 知识抽取 (6学时)</b>
       <br>
-    xxxx
+    本章节将介绍Python科学计算包在信息抽取以及知识图谱构建场景中的应用实战，包括实体识别，关系抽取以及知识三元组的抽取等内容。
     </td>
     <td>
       知识抽取[<a href="/files/Knowledge Extraction from Text.pdf">pdf</a>]
