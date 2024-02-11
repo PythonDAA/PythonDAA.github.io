@@ -309,14 +309,14 @@ redirect_from:
     </td>
     <td>
        <ul>
-         <li>实体抽取[<a href="/files/EntityExtraction_Exercise.ipynb">Notebook</a>]
-        [<a href="/files/EntityExtraction_Exercise.pdf">pdf</a>] 
+         <li>实体抽取[<a href="/files/EntityExtraction_Exercise.ipynb">题目</a>]
+        [<a href="/files/EntityExtraction_Solution.ipynb">答案</a>] 
          </li>
-        <li>上位词抽取[<a href="/files/HypernymExtraction-Exercise.ipynb">Notebook</a>]
-        [<a href="/files/HypernymExtraction-Exercise.pdf">pdf</a>] 
+        <li>上位词抽取[<a href="/files/HypernymExtraction-Exercise.ipynb">题目</a>]
+        [<a href="/files/HypernymExtraction-Solution.ipynb">答案</a>] 
          </li>
-        <li>开放信息抽取[<a href="/files/OpenIE-Exercise.ipynb">Notebook</a>]
-        [<a href="/files/OpenIE-Exercise.pdf">pdf</a>] 
+        <li>开放信息抽取[<a href="/files/OpenIE-Exercise.ipynb">题目</a>]
+        [<a href="/files/OpenIE-Solution.ipynb">答案</a>] 
          </li>
        </ul>
     </td>
