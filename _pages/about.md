@@ -99,14 +99,13 @@ redirect_from:
  <!-- More Row -->
   <tr>
     <td>
-      <b>Python编程基础 (9学时)</b>
+      <b>Python编程基础1 (9学时)</b>
       <br>
     本章节将深入介绍Python语言的编程基础，包括:
     <ul>
       <li>
         Python语法
       </li>
-      
       <li>
         基本数据类型、变量、运算符
       </li>
@@ -141,7 +140,7 @@ redirect_from:
     <td>
       <ul>
         <li>
-         1Lab01_Python编程基础(1) [<a href="/files/Lab01_PythonBasics1.ipynb">题目</a>][<a href="/files/Lab01_Answerbook.ipynb">答案</a>]
+         Lab01_Python编程基础(1) [<a href="/files/Lab01_PythonBasics1.ipynb">题目</a>][<a href="/files/Lab01_Answerbook.ipynb">答案</a>]
         </li>
         <li>
          Lab02_Python编程基础(2) [<a href="/files/Lab01_PythonBasics2.ipynb">题目</a>][<a href="/files/Lab02_Answerbook.ipynb">答案</a>]
