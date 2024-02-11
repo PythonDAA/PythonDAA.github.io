@@ -293,7 +293,7 @@ redirect_from:
         [<a href="/files/机器学习.pdf">pdf</a>]
      </td>
     <td>
-      Lab10[<a href="Lab10_MachineLearning.ipynb">题目</a>][<a href="Lab10_MachineLearning_Sol.ipynb">答案</a>]
+      Lab10[<a href="/files/Lab10_MachineLearning.ipynb">题目</a>][<a href="files/Lab10_MachineLearning_Sol.ipynb">答案</a>]
     </td>
   </tr>
 
