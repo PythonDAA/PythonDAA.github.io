@@ -140,8 +140,8 @@ redirect_from:
     <td>
       <ul>
         <li>Lab01[<a href="/files/Lab01_PythonBasics1.ipynb">题目</a>][<a href="/files/Lab01_Answerbook.ipynb">答案</a>]</li>
-           <li>Lab02[<a href="/files/Lab02_PythonBasics2.ipynb">题目</a>][<a href="/files/Lab02_Answerbook.ipynb">答案</a>]</li>
-              <li>Lab03[<a href="/files/Lab03_PythonBasics3.ipynb">题目</a>][<a href="/files/Lab03_Answerbook.ipynb">答案</a>]</li>
+        <li>Lab02[<a href="/files/Lab02_PythonBasics2.ipynb">题目</a>][<a href="/files/Lab02_Answerbook.ipynb">答案</a>]</li>
+        <li>Lab03[<a href="/files/Lab03_PythonBasics3.ipynb">题目</a>][<a href="/files/Lab03_Answerbook.ipynb">答案</a>]</li>
       </ul>
     </td>
   </tr>
