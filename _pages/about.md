@@ -13,7 +13,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 📝 Python 数据分析与应用1
+# 📝 Python 数据分析与应用2
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/maxresdefault.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
