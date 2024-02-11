@@ -16,7 +16,7 @@ redirect_from:
 <!--
 <span class='anchor' id='about-me'></span>
 -->
-# 📝 Python 数据分析与应用1
+# 📝 Python 数据分析与应用2
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/maxresdefault.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -139,17 +139,7 @@ redirect_from:
       </ul>
     </td>
     <td>
-      <ul>
-        <li>
-         Lab01_Python编程基础(1) [<a href="/files/Lab01_PythonBasics1.ipynb">题目</a>][<a href="/files/Lab01_Answerbook.ipynb">答案</a>]
-        </li>
-        <li>
-         Lab02_Python编程基础(2) [<a href="/files/Lab01_PythonBasics2.ipynb">题目</a>][<a href="/files/Lab02_Answerbook.ipynb">答案</a>]
-        </li>
-        <li>
-         Lab03_Python编程基础(3) [<a href="/files/Lab01_PythonBasics3.ipynb">题目</a>][<a href="/files/Lab03_Answerbook.ipynb">答案</a>]
-        </li>
-      </ul>
+      --
     </td>
   </tr>
  
