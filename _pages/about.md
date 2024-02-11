@@ -139,9 +139,9 @@ redirect_from:
     </td>
     <td>
       <ul>
-        <li>Lab01_Python编程基础(1)[<a href="/files/Lab01_PythonBasics1.ipynb">题目</a>][<a href="/files/Lab01_Answerbook.ipynb">答案</a>]</li>
-           <li>Lab02_Python编程基础(2)[<a href="/files/Lab01_PythonBasics2.ipynb">题目</a>][<a href="/files/Lab02_Answerbook.ipynb">答案</a>]</li>
-              <li>Lab01_Python编程基础(3)[<a href="/files/Lab01_PythonBasics3.ipynb">题目</a>][<a href="/files/Lab03_Answerbook.ipynb">答案</a>]</li>
+        <li>Lab01[<a href="/files/Lab01_PythonBasics1.ipynb">题目</a>][<a href="/files/Lab01_Answerbook.ipynb">答案</a>]</li>
+           <li>Lab02[<a href="/files/Lab02_PythonBasics2.ipynb">题目</a>][<a href="/files/Lab02_Answerbook.ipynb">答案</a>]</li>
+              <li>Lab03[<a href="/files/Lab03_PythonBasics3.ipynb">题目</a>][<a href="/files/Lab03_Answerbook.ipynb">答案</a>]</li>
       </ul>
     </td>
   </tr>
@@ -171,14 +171,7 @@ redirect_from:
       </ul>
     </td>
     <td>
-      <ul>
-        <li>
-         Numpy介绍(1) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
-        </li>
-        <li>
-         Numpy介绍(2) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
-        </li>     
-      </ul>
+     Lab04[<a href="/files/Lab04_Numpy.ipynb">题目</a>][<a href="/files/Lab04_Numpy_Sol.ipynb">答案</a>]
     </td>
   </tr>
     
@@ -202,14 +195,7 @@ redirect_from:
       </ul>
     </td>
     <td>
-      <ul>
-        <li>
-         Pandas介绍(1) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
-        </li>
-        <li>
-         Pandas介绍(2) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
-        </li>     
-      </ul>
+       Lab05[<a href="/files/Lab05_Pandas.ipynb">题目</a>][<a href="/files/Lab05_Pandas_Sol.ipynb">答案</a>]
     </td>
   </tr>
 
@@ -226,7 +212,7 @@ redirect_from:
         [<a href="/files/数据清洗与预处理.pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
     </td>
     <td>
-         数据清洗与预处理[<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+         Lab06[<a href="/files/Lab06_DataCleaning.ipynb">题目</a>][<a href="/files/Lab06_DataCleaning_Sol.ipynb">答案</a>]
     </td>
   </tr>
 
@@ -250,7 +236,7 @@ redirect_from:
         
     </td>
     <td>
-         数据采集[<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+          Lab07[<a href="/files/Lab07_DataAcquisition.ipynb">题目</a>][<a href="/files/Lab07_DataAcquisition_Sol.ipynb">答案</a>]
     </td>
   </tr>
 
@@ -267,7 +253,7 @@ redirect_from:
         [<a href="/files/数据库访问.pdf">pdf</a>] [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
     </td>
     <td>
-         数据库访问[<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+        Lab08[<a href="/files/Lab08_DatabaseAccess.ipynb">题目</a>][<a href="/files/Lab08_DatabaseAccess_Sol.ipynb">答案</a>]
     </td>
   </tr>
 
@@ -291,12 +277,7 @@ redirect_from:
        
     </td>
     <td>
-         <li> 数据可视化(1)[<a href="/files/数据可视化(1).ipynb">Notebook</a>]
-        [<a href="/files/数据可视化(1).pdf">pdf</a>] 
-        </li>
-        <li> 数据可视化(2)[<a href="/files/数据可视化(2).ipynb">Notebook</a>]
-        [<a href="/files/数据可视化(2).pdf">pdf</a>]
-        </li>
+        Lab09[<a href="/files/Lab08_DatabaseAccess.ipynb">题目</a>][<a href="/files/Lab08_DatabaseAccess_Sol.ipynb">答案</a>]
     </td>
   </tr>
 
