@@ -82,6 +82,7 @@ redirect_from:
     <th>练习题目</th>
   </tr>
 
+<!-- Jupyter基础 row -->
   <tr>
     <td width="350">
       <b>Jupyter基础 (1学时)</b>
@@ -96,7 +97,8 @@ redirect_from:
      --
     </td>
   </tr>
- <!-- More Row -->
+  
+ <!-- Python Basic Row -->
   <tr>
     <td>
       <b>Python编程基础1 (9学时)</b>
@@ -123,7 +125,6 @@ redirect_from:
       </li>
     </ul>
     </td>
-    
     <td>
       <ul>
         <li>  Python编程基础(1) [<a href="/files/Python编程基础(1).ipynb">Notebook</a>]
@@ -152,8 +153,6 @@ redirect_from:
     </td>
   </tr>
  
-  <!-- More rows can be added here -->
-
   <!-- Second Row, Chapter 2 -->
   <tr>
     <td>
