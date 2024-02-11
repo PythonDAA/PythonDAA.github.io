@@ -141,13 +141,13 @@ redirect_from:
     <td>
       <ul>
         <li>
-         Python编程基础(1) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+         Lab01_Python编程基础(1) [<a href="/files/Lab01_PythonBasics1.ipynb">题目</a>][<a href="/files/Lab01_Answerbook.ipynb">答案</a>]
         </li>
         <li>
-         Python编程基础(2) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+         Lab02_Python编程基础(2) [<a href="/files/Lab01_PythonBasics2.ipynb">题目</a>][<a href="/files/Lab02_Answerbook.ipynb">答案</a>]
         </li>
         <li>
-         Python编程基础(3) [<a href="link-to-word2vec-paper">Notebook</a>][<a href="xxx">pdf</a>]
+         Lab03_Python编程基础(3) [<a href="/files/Lab01_PythonBasics3.ipynb">题目</a>][<a href="/files/Lab03_Answerbook.ipynb">答案</a>]
         </li>
       </ul>
     </td>
