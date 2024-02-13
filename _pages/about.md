@@ -133,8 +133,9 @@ redirect_from:
         <li>  Python编程基础(3) [<a href="/files/Python编程基础(3).ipynb">Notebook</a>]
         [<a href="/files/Python编程基础(3).pdf">pdf</a>] 
         </li>
+        <li>课程视频[<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">下载</a>]</li>
       </ul>
-      [<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">视频</a>]
+      
     </td>
     <td>
       <ul>
