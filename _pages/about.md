@@ -233,7 +233,7 @@ redirect_from:
     <td>
     <ul>
     <li>数据采集(1)[<a href="/files/数据采集(1).ipynb">Notebook</a>]
-        [<a href="/files/数据采集(1).pdf">pdf</a>] 
+        [<a href="/files/数据采集(1).pdf">pdf</a>] </li>
       <li>数据采集(2)[<a href="/files/数据采集(2).ipynb">Notebook</a>]
         [<a href="/files/数据采集(2).pdf">pdf</a>]</li> 
     <li>课程视频[<a href="https://pan.baidu.com/s/1DaZPUqtDopVD1BWIY1CtbA?pwd=2c6y">下载</a>]</li>
