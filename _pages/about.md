@@ -162,6 +162,7 @@ redirect_from:
          <li>  Numpy介绍(2) [<a href="/files/Numpy介绍(2).ipynb">Notebook</a>]
         [<a href="/files/Numpy介绍(2).pdf">pdf</a>] 
         </li>
+        <li>课程视频[<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">下载</a>]</li>
          数据集：
          <ul>
          <li>[<a href="/files/president_heights.csv">president_heights.csv</a>]</li>
@@ -169,7 +170,6 @@ redirect_from:
          </ul>
        
       </ul>
-      [<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">视频</a>]
     </td>
     <td>
      Lab04[<a href="/files/Lab04_Numpy.ipynb">题目</a>][<a href="/files/Lab04_Numpy_Sol.ipynb">答案</a>]
@@ -192,8 +192,8 @@ redirect_from:
          <li>  Pandas介绍(2) [<a href="/files/Pandas介绍(2).ipynb">Notebook</a>]
         [<a href="/files/Pandas介绍(2).pdf">pdf</a>] 
         </li>
+        <li>课程视频[<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">下载</a>]</li>
       </ul>
-      [<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">视频</a>]
     </td>
     <td>
        Lab05[<a href="/files/Lab05_Pandas.ipynb">题目</a>][<a href="/files/Lab05_Pandas_Sol.ipynb">答案</a>]
@@ -209,10 +209,12 @@ redirect_from:
     </td>
     
     <td>
-        数据清洗与预处理[<a href="/files/数据清洗与预处理.ipynb">Notebook</a>]
+<ul>
+     <li>   数据清洗与预处理[<a href="/files/数据清洗与预处理.ipynb">Notebook</a>]
         [<a href="/files/数据清洗与预处理.pdf">pdf</a>] 
-        <br>
-        [<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">视频</a>]
+     </li>
+  <li>课程视频[<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">下载</a>]</li>
+</ul>
     </td>
     <td>
          Lab06[<a href="/files/Lab06_DataCleaning.ipynb">题目</a>][<a href="/files/Lab06_DataCleaning_Sol.ipynb">答案</a>]
@@ -234,9 +236,9 @@ redirect_from:
         [<a href="/files/数据采集(1).pdf">pdf</a>] 
       <li>数据采集(2)[<a href="/files/数据采集(2).ipynb">Notebook</a>]
         [<a href="/files/数据采集(2).pdf">pdf</a>] 
+    <li>课程视频[<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">下载</a>]</li>
         <li>数据文件[<a href="/files/数据收集数据文件.zip">zip</a>]</li>
     </ul>
-        [<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">视频</a>]
     </td>
     <td>
           Lab07[<a href="/files/Lab07_DataAcquisition.ipynb">题目</a>][<a href="/files/Lab07_DataAcquisition_Sol.ipynb">答案</a>]
@@ -252,10 +254,13 @@ redirect_from:
     </td>
     
     <td>
+      <ul>
+      <li>
         数据库访问[<a href="/files/数据库访问.ipynb">Notebook</a>]
         [<a href="/files/数据库访问.pdf">pdf</a>] 
-        <br>
-        [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
+        </li>
+        <li>课程视频[<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">下载</a>]</li>
+      </ul>
     </td>
     <td>
         Lab08[<a href="/files/Lab08_DatabaseAccess.ipynb">题目</a>][<a href="/files/Lab08_DatabaseAccess_Sol.ipynb">答案</a>]
@@ -277,9 +282,9 @@ redirect_from:
         <li> 数据可视化(2)[<a href="/files/数据可视化(2).ipynb">Notebook</a>]
         [<a href="/files/数据可视化(2).pdf">pdf</a>] 
         </li>
+        <li>课程视频[<a href="https://pan.baidu.com/s/1XHN9pVG8LY4hevGa2w9Y1A?pwd=uipw">下载</a>]</li>
         <li>数据文件[<a href="/files/可视化数据文件.zip">Notebook</a>]</li>
       </ul>
-       [<a href="https://pan.baidu.com/s/1S1WnACPL2mm-SUpIx-9mDQ?pwd=euir">视频</a>]
     </td>
     <td>
         Lab09[<a href="/files/Lab09_DataViz.ipynb">题目</a>][<a href="/files/Lab09_DataViz_Sol.ipynb">答案</a>]
